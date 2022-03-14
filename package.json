@@ -4,7 +4,6 @@
   "engines": {
     "node": "16.x"
   },
-  "description": "",
   "main": "server.js",
   "scripts": {
     "dev": "react-scripts start",
@@ -23,5 +22,15 @@
     "express": "^4.17.3",
     "mongodb": "^4.4.1",
     "react-scripts": "^5.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziuss76/hochony2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ziuss76/hochony2/issues"
+  },
+  "homepage": "https://github.com/ziuss76/hochony2#readme",
+  "description": ""
 }
