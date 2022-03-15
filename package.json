@@ -19,7 +19,6 @@
     "mongodb": "^4.4.1",
     "react-scripts": "^5.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ziuss76/hochony2.git"
